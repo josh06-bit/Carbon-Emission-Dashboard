@@ -1,6 +1,6 @@
 # Carbon-Emission-Dashboard
 
-This Carbon Emission Dashboard tracks total emissions, yearly trends, emission reduction, and major emission sources from 2015–2022. It highlights manufacturing as the largest contributor and shows how emissions changed over time for better decisions.
+This [Carbon Emission Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTMzMTcyMTktNjQyMy00OWEzLWFkZTYtMWFlNWQ3Y2YyODY4IiwidCI6ImE1ZjVhMjkzLWFhZjItNGMzYy04NWYxLTUyYjkxYTdlY2EyZSIsImMiOjEwfQ%3D%3D) tracks total emissions, yearly trends, emission reduction, and major emission sources from 2015–2022. It highlights manufacturing as the largest contributor and shows how emissions changed over time for better decisions.
 
 ## Problems Answered by the Dashboard
 **1. How have total carbon emissions changed over time?**
